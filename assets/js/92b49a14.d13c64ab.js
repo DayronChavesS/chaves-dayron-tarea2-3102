@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[333],{7717:e=>{e.exports=JSON.parse('{"tags":[{"label":"tag","permalink":"/chaves-dayron-tarea2-3102/blog/tags/tag","description":"Esto es un tag.","count":1}]}')}}]);
