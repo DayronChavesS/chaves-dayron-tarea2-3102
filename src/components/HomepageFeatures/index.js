@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'JavaScript',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/Javascript.svg').default,
     description: (
       <>
         Docusaurus es un poderoso motor de documentacion desarrollado por Meta Inc, 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'API',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/Search.svg').default,
     description: (
       <>
         Esta pagina web ofrece una barra de busqueda gracias a la API de Algolia Search.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Markup',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/Markdown.svg').default,
     description: (
       <>
         Este sitio web utiliza HTML5/CSS y Markdown para las entradas en el Trabajo Escrito 
