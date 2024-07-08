@@ -15,4 +15,4 @@ De acuerdo con Zammetti (2020), J. A. M. es un acrónimo que indica:
 - Markup (HTML/CSS)
 
 
-Pero no acaba allí, porque JamStack no solo es un conjunto de tecnologías como MEAN o LAMP; JamStack también es una arquitectura, así como un conjunto de principios y buenas practicas.  Véase Sección 1.2.
+Pero no acaba allí, porque JamStack no solo es un conjunto de tecnologías como MEAN o LAMP; JamStack también es una arquitectura, así como un conjunto de principios y buenas practicas. Para obtener más informacion, continue a la siguiente seccion.
