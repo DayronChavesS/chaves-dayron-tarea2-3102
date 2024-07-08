@@ -9,4 +9,18 @@ En esta sección se presenta la Tabla 1, allí se hace una breve comparación en
 
 
 **Tabla 1**
+
 *JamStack Vs LAMP vs MEAN*
+
+
+|                           | **JamStack**      | **LAMP**          | **MEAN**          |
+| -----------               | -----------       | -----------       | -----------       |
+| **Año**                   | JamStack          | LAMP              | MEAN              |
+| **Componentes**           | JamStack          | LAMP              | MEAN              |
+| **Filosofía**             | JamStack          | LAMP              | MEAN              |
+| **Servidor**              | JamStack          | LAMP              | MEAN              |
+| **Arquitectura Ideal**    | JamStack          | LAMP              | MEAN              |
+
+
+
+Nota. Elaboración propia.

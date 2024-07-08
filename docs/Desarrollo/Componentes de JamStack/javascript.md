@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-#JavaScript
+
+# JavaScript
+
 
 Sabemos que JavaScript es el componente que permite que las paginas web sean programas de software; sin el, una pagina web no seria demasiado diferente de un PDF.
 
