@@ -35,9 +35,6 @@ export default function Home() {
       title={`chaves-dayron-tarea2-3102`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <Head>
-         <meta name="robots" content="noindex" />
-      </Head>
       <main>
         <HomepageFeatures />
       </main>

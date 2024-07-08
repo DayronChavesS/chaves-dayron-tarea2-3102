@@ -8,6 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  
+  noIndex: true,
+
   title: 'Chaves Dayron Tarea 2 3102',
   tagline: 'Mi primer sitio web JamStack.',
   favicon: 'img/favicon.ico',
