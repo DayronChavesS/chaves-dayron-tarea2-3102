@@ -15,11 +15,12 @@ En esta sección se presenta la Tabla 1, allí se hace una breve comparación en
 
 |                           | **JamStack**      | **LAMP**          | **MEAN**          |
 | -----------               | -----------       | -----------       | -----------       |
-| **Año**                   | JamStack          | LAMP              | MEAN              |
-| **Componentes**           | JamStack          | LAMP              | MEAN              |
-| **Filosofía**             | JamStack          | LAMP              | MEAN              |
-| **Servidor**              | JamStack          | LAMP              | MEAN              |
-| **Arquitectura Ideal**    | JamStack          | LAMP              | MEAN              |
+| **Año**                   | 2015          | 1998              | 2013              |
+| **Componentes**           | JavaScript, API y Markup.
+(No se fuerza al programador a usar software especifico.)          | Linux, Apache, MySQL y PHP.              | MongoDB, Express, Angular y Node.              |
+| **Filosofía**             | Ágil          | Tradicional              | Adaptable              |
+| **Servidor**              | No          | Si              | Si              |
+| **Arquitectura Ideal**    | Micro servicios          | Monolítica              | Monolítica, MVC o SPA.              |
 
 
 
