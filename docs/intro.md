@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduccion
 
-Let's discover **Docusaurus in less than 5 minutes**.
+El siguiente documento corresponde a una tarea realizada por el estudiante Dayron Antony Chaves Sandoval, para la asignatura de Administración de Paginas Web, de la Universidad Estatal a Distancia de Costa Rica.
 
-## Getting Started
 
-Get started by **creating a new site**.
+El objetivo de esta tarea aprender sobre el desarrollo de sitios web con ayuda de tecnologías web.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+Es una tarea orientada a aspectos de carácter teórico y practico. El estudiante deberá tener un buen dominio de los temas estudiados en este curso hasta el momento para poder dar respuesta a todas las preguntas y ejercicios planteados en la tarea.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+Para resolver esta tarea el estudiante aplico la siguiente metodología: 
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+Consulto las lecturas oficiales del curso y sus vídeos para tener una base sólida para comenzar la redacción de este documento, posteriormente realizo una investigación en fuentes de internet que considero confiables o que concordaban con la teoría que ofrecía el curso. Todas estas fuentes han sido incluidas al final de este documento en el apartado de “Bibliografía” bajo el formato APA 7.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Por último, la importancia de esta tarea es que el estudiante adquiera experiencia en sitios web JamStack, los cuales han gozado de gran popularidad en los ultimos años por ser muy livianos, faciles de programar, y accesibles.
