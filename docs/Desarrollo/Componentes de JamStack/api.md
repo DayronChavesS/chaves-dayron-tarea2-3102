@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# API
+
 Una API es un software que actuá como un servicio; puede ser nuestro o de un tercero, puede ser publico o privado, pero como regla general, debe poder accederse a el mediante una url con parámetros.
 
 
